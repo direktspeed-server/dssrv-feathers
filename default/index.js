@@ -267,7 +267,7 @@ module.exports = generators.Base.extend({
 
     var newDevDeps = [
       'can-fixture@0.4.0-pre.15',
-      'donejs-cli@0.10.0-pre.0',
+      'dssrv-cli@^1.5.0',
       'steal-tools@0.16.8'
     ];
     this.npmInstall(newDevDeps, {'saveDev': true});
