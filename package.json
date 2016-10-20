@@ -1,6 +1,6 @@
 {
   "name": "dssrv-feathers",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "A generator to quickly add FeathersJS to your DoneJS project. Includes Auth!",
   "homepage": "https://github.com/donejs/donejs-feathers",
   "author": {
