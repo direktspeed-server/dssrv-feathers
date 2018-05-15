@@ -38,6 +38,6 @@
     "jshint": "^2.9.3",
     "mocha": "^4.0.0",
     "yeoman-assert": "^3.0.0",
-    "yeoman-test": "^1.5.1"
+    "yeoman-test": "^1.7.2"
   }
 }
