@@ -31,7 +31,7 @@
     "plugin"
   ],
   "dependencies": {
-    "lodash": "^4.16.2",
+    "lodash": "^4.17.13",
     "yeoman-generator": "^1.0.0"
   },
   "devDependencies": {
